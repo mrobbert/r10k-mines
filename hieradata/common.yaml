@@ -1,0 +1,7 @@
+---
+classes:
+ - 'profile::base'
+
+ ntp::server:
+   - magma.mines.edu
+   - massive.mines.edu
